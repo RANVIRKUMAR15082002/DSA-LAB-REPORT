@@ -1,1 +1,0 @@
-/* Write a program using C to implement the binary search tree using linked list. */
